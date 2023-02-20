@@ -1,0 +1,1 @@
+project done during fullstack software engineering course at ALX School year 2023. It aims to learn about arithematic operators, relational operators and boolean operators as well as comments in C programming language.File 0-positive_or_negative.c is a C program that will assign a random number to the variable n each time it is executed, using an if statement.
