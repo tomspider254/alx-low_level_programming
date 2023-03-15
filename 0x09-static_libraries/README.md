@@ -1,1 +1,1 @@
-this is static libraries task in ALX
+ static libraries in C
