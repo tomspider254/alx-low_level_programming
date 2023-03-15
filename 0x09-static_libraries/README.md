@@ -1,1 +1,1 @@
-Introduction to C - Static libraries
+this is static libraries task in ALX
